@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TappyDefender</string>
+    <string name="high_score_99999">High Score: 99999</string>
+    <string name="play">PLAY</string>
+</resources>
